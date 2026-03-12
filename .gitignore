@@ -1,0 +1,7 @@
+client/node_modules/
+client/dist/
+server/node_modules/
+server/database.sqlite
+SESSION_CONTEXT.md
+patch_payload.txt
+books.txt
